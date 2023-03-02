@@ -22,6 +22,8 @@
 [github]: https://github.com/osmankayan?tab=repositories
 - 📫 How to reach me **m.osmankayan@gmail.com**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankayan&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
