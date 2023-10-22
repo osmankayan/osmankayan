@@ -8,6 +8,9 @@
  width="120" height="60">
  <img src="https://img-b.udemycdn.com/course/750x422/4663024_b398_2.jpg"
  width="120" height="60">
+ <img src="https://www.mshowto.org/images/articles/2019/10/1-2.jpg"
+ width="120" height="60">
+ 
 <img src="https://pbs.twimg.com/profile_images/1390448160934305793/ohii8Hxq_400x400.png"
  width="60" height="60">
 <img src="https://www.ryadel.com/wp-content/uploads/2021/10/net-maui-logo.png" width="150" height="60">
