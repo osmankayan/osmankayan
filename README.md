@@ -5,9 +5,9 @@
 
 ## Technologies I use
 <img src="https://miro.medium.com/max/597/1*7PoIkU7tSWvq-cCooWAZSw.png"
- width="120" height="60">
- <img src="https://img-b.udemycdn.com/course/750x422/4663024_b398_2.jpg"
- width="120" height="60">
+ width="90" height="60">
+ <img src="https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/679210935de42a1be6065252/images/teaserImage_xxxx_angular_header_1699351460248_1699362954921.png"
+width="150" height="60" >
  <img src="https://www.mshowto.org/images/articles/2019/10/1-2.jpg"
  width="120" height="60">
  
